@@ -53,4 +53,4 @@ jobs:
           app-name: 'CarbonAccounting'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3612D9A3599D43DB8316D7E3704F2F47 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78F2E9FA6739476F87CD2CBB36B75881 }}
